@@ -1,0 +1,132 @@
+[[FastNoise2]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e3a323bda00e490fdbbf9155d0f39365aab65abe"
+libc = "glibc"
+os = "linux"
+
+    [[FastNoise2.download]]
+    sha256 = "284f59eb9ab9f577a7c880d0e46e9d7e71f9595777252f72b86d067af3b64626"
+    url = "https://github.com/JuliaBinaryWrappers/FastNoise2_jll.jl/releases/download/FastNoise2-v0.9.4+0/FastNoise2.v0.9.4.i686-linux-gnu-cxx03.tar.gz"
+[[FastNoise2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8b8b74e12930fa5fe2ab7a02def20fc6f40c4f57"
+libc = "glibc"
+os = "linux"
+
+    [[FastNoise2.download]]
+    sha256 = "6cf4e0479e10f7542a026d972719ba6bdc296818ca5d96ca2417aad7740694b5"
+    url = "https://github.com/JuliaBinaryWrappers/FastNoise2_jll.jl/releases/download/FastNoise2-v0.9.4+0/FastNoise2.v0.9.4.i686-linux-gnu-cxx11.tar.gz"
+[[FastNoise2]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "018f4158086063ecc760059efcfe4b5ec86f4432"
+libc = "musl"
+os = "linux"
+
+    [[FastNoise2.download]]
+    sha256 = "17c6e03cf35215c0be5e934eb499ff0ff9c212be15292977d3d293ae5515829a"
+    url = "https://github.com/JuliaBinaryWrappers/FastNoise2_jll.jl/releases/download/FastNoise2-v0.9.4+0/FastNoise2.v0.9.4.i686-linux-musl-cxx03.tar.gz"
+[[FastNoise2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9c5b3b57d170874b2437ebe59e863d59e7b9f705"
+libc = "musl"
+os = "linux"
+
+    [[FastNoise2.download]]
+    sha256 = "9350d4fd80934184c7f370c7130b316288f3969b14f5769212c736f7d9ac285a"
+    url = "https://github.com/JuliaBinaryWrappers/FastNoise2_jll.jl/releases/download/FastNoise2-v0.9.4+0/FastNoise2.v0.9.4.i686-linux-musl-cxx11.tar.gz"
+[[FastNoise2]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fc75e8183238f08c614a17acb399acee848d0f36"
+os = "windows"
+
+    [[FastNoise2.download]]
+    sha256 = "a1cfdc3809065991ae4c2c2b407c22b8b8833f5af8a7979fbb6767d6e4ef8fda"
+    url = "https://github.com/JuliaBinaryWrappers/FastNoise2_jll.jl/releases/download/FastNoise2-v0.9.4+0/FastNoise2.v0.9.4.i686-w64-mingw32-cxx03.tar.gz"
+[[FastNoise2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "19beeb98e712293009324a84df4bf8f96b0f0ae2"
+os = "windows"
+
+    [[FastNoise2.download]]
+    sha256 = "094f2f29debf5467f7d53c99b9c0114c99d7364b26a25309f1a3f803d04a7e54"
+    url = "https://github.com/JuliaBinaryWrappers/FastNoise2_jll.jl/releases/download/FastNoise2-v0.9.4+0/FastNoise2.v0.9.4.i686-w64-mingw32-cxx11.tar.gz"
+[[FastNoise2]]
+arch = "x86_64"
+git-tree-sha1 = "5117d6af8fa23e1d9c98b8c193ab5e919cf5d4ac"
+os = "macos"
+
+    [[FastNoise2.download]]
+    sha256 = "10d44e07efbc7ebd0e095fa3c4318140f3212acbb23e1cbea9592d89204b70ba"
+    url = "https://github.com/JuliaBinaryWrappers/FastNoise2_jll.jl/releases/download/FastNoise2-v0.9.4+0/FastNoise2.v0.9.4.x86_64-apple-darwin.tar.gz"
+[[FastNoise2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "36516f2c52c4328c82169a48fdbd9c7ca669aaa3"
+libc = "glibc"
+os = "linux"
+
+    [[FastNoise2.download]]
+    sha256 = "dd45ea5fe8487a2e9016c95c0e9216c6d19088018201bc40e400d9b338aa65b6"
+    url = "https://github.com/JuliaBinaryWrappers/FastNoise2_jll.jl/releases/download/FastNoise2-v0.9.4+0/FastNoise2.v0.9.4.x86_64-linux-gnu-cxx03.tar.gz"
+[[FastNoise2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2a860578b208bc57e18f85c966b18b3aa5fc5121"
+libc = "glibc"
+os = "linux"
+
+    [[FastNoise2.download]]
+    sha256 = "567f9a581aa169009260a0cb61a6b4d600458f55d5a299b6299a0806a19206ce"
+    url = "https://github.com/JuliaBinaryWrappers/FastNoise2_jll.jl/releases/download/FastNoise2-v0.9.4+0/FastNoise2.v0.9.4.x86_64-linux-gnu-cxx11.tar.gz"
+[[FastNoise2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "223c20e134aaf5b31d07c02c4bd2829dfa95a524"
+libc = "musl"
+os = "linux"
+
+    [[FastNoise2.download]]
+    sha256 = "560baeb2033488328bc52acb61fa50d956db99163c560c0440f06b8357d5f590"
+    url = "https://github.com/JuliaBinaryWrappers/FastNoise2_jll.jl/releases/download/FastNoise2-v0.9.4+0/FastNoise2.v0.9.4.x86_64-linux-musl-cxx03.tar.gz"
+[[FastNoise2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ac719b75ee2c59c5c92ccb91e2739f9b1aecf3fd"
+libc = "musl"
+os = "linux"
+
+    [[FastNoise2.download]]
+    sha256 = "ac6059cf485e5b1b1abab31667ada534803c2b07eb49df323f1306c380e9e3b7"
+    url = "https://github.com/JuliaBinaryWrappers/FastNoise2_jll.jl/releases/download/FastNoise2-v0.9.4+0/FastNoise2.v0.9.4.x86_64-linux-musl-cxx11.tar.gz"
+[[FastNoise2]]
+arch = "x86_64"
+git-tree-sha1 = "189322ed1f7bc0799effdf74ee3f0f8002ee3ade"
+os = "freebsd"
+
+    [[FastNoise2.download]]
+    sha256 = "4131affb459394ca416c9d90c0ae38a0991eae19afedee9a64dec5f1c0be237b"
+    url = "https://github.com/JuliaBinaryWrappers/FastNoise2_jll.jl/releases/download/FastNoise2-v0.9.4+0/FastNoise2.v0.9.4.x86_64-unknown-freebsd.tar.gz"
+[[FastNoise2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "361c3391e2d28a57de6b65d9ea540041cb4f1e72"
+os = "windows"
+
+    [[FastNoise2.download]]
+    sha256 = "48a3282c449d0608886cabb38afa147d4bc4a03c7e9571073f66df695f6a7950"
+    url = "https://github.com/JuliaBinaryWrappers/FastNoise2_jll.jl/releases/download/FastNoise2-v0.9.4+0/FastNoise2.v0.9.4.x86_64-w64-mingw32-cxx03.tar.gz"
+[[FastNoise2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "10db18223a1f485f9319fcbc9c60e9bdeaff831c"
+os = "windows"
+
+    [[FastNoise2.download]]
+    sha256 = "eec80ab0a3657b0f4fe06452eaa5338457b90aa8c2d79212cbbc8d2d1fd21dd6"
+    url = "https://github.com/JuliaBinaryWrappers/FastNoise2_jll.jl/releases/download/FastNoise2-v0.9.4+0/FastNoise2.v0.9.4.x86_64-w64-mingw32-cxx11.tar.gz"
